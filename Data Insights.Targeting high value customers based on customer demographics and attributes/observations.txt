@@ -1,0 +1,4 @@
+1) No CustomerDemograohic data available for customer ID 4001-4003.
+2)2.17% NULL values for the DOB field - we may go for the median imputation
+3)2.58% of 4000 customers haven't mentioned their job title
+4)4.13% haven't mentioned job insdustry
